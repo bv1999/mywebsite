@@ -1,0 +1,174 @@
+.first_container
+{
+    background-color: #39a9cb;
+    position: relative;
+    padding-top: 100px;
+    
+   
+}
+.middle_container
+{
+   
+   
+}
+.last_container
+{
+   background-color: #8f4068;
+}
+body
+{
+    margin:0;
+    text-align:center;
+    
+}
+
+h1
+{
+    line-height: 2;
+    margin-top: 0;
+    width: 30%;
+    margin:0 auto;
+    font-family: 'Caveat', cursive;
+}
+h2
+{
+    
+    line-height: 2;
+    color:  #66BFBF;
+    font-size: 50px;
+    font-family: 'Stint Ultra Condensed', cursive;
+}
+h3
+{
+    font-size: 40px;
+    font-family: 'Mate SC', serif;
+
+}
+p{
+    line-height: 2;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Stint Ultra Condensed', cursive;
+}
+hr
+{
+    border-style: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 30%;
+    
+}
+.imp
+{
+    font-family: 'Merriweather', serif;
+}
+.bottom
+{
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+.top
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.hi
+{
+    float: left;
+    margin-right:40px;
+    margin-top:5px;
+    height: 200px;
+    width: 200px;
+}
+.img
+{
+    float: left;
+    margin-top:10px;
+    height: 150px;
+    width: 150px;
+    margin-right: 40px;
+}
+
+.web
+{
+    color:#fc5404;
+    font-family: font-family: 'Merriweather', serif; 
+    margin:10px 20px;
+    text-decoration:none;
+}
+.web:hover
+{
+    color: #ffffff;
+}
+.Skils
+{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.Hobbies
+{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.vedant
+{
+    margin-top: 50px;
+    height: 175px;
+    width: 175px;
+}
+.head
+{
+    width: 30%;
+    margin:auto;
+}
+.para
+{
+    width: 30%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.special
+{
+    width: 30%;
+    margin: 50px auto 30px auto;
+}
+.btn {
+    background: #d93434;
+    background-image: -webkit-linear-gradient(top, #d93434, #97b82b);
+    background-image: -moz-linear-gradient(top, #d93434, #97b82b);
+    background-image: -ms-linear-gradient(top, #d93434, #97b82b);
+    background-image: -o-linear-gradient(top, #d93434, #97b82b);
+    background-image: linear-gradient(to bottom, #d93434, #97b82b);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 28px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffffff;
+    text-decoration: none;
+  }
+  .lastone
+  {
+      margin: 80px auto 10px auto;
+  } 
+  .v 
+  {
+      margin-top: 10px;
+      font-size: 25px;
+  }
+  .skils
+  {
+      color:#864000;
+  } 
+ 
